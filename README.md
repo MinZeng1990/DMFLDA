@@ -23,8 +23,7 @@ scipy==0.18.1
   
   You can use these python files which provided by us in data_processing folder to obtain them.
   
-  In our demo, we provide a leave-one-out cross validation to evaluate our model. You can use cross_validation.py to see experimental 
-results and predict lncRNA related diseases. If you want to tune some hyper-parameters, you can change the values of hyper-parameters in hyperparams.py. 
+  In our demo, we provide a leave-one-out cross validation to evaluate our model. You can use cross_validation.py to see experimental results and predict lncRNA related diseases. If you want to tune some hyper-parameters, you can change the values of hyper-parameters in hyperparams.py. 
 
   The other details can see the paper and the codes.
   
