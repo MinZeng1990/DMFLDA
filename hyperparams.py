@@ -17,13 +17,13 @@ class Hyperparams:
     threshold = 0.5
 
     # model
-    col_num = 94  # XL
+    col_num = 272  # XL
     L_layer1_num = 48
     L_layer2_num = 32
     # L_layer1_num = 280
     # L_layer2_num = 140
 
-    row_num = 656  # XR
+    row_num = 577  # XR
     R_layer1_num = 48
     R_layer2_num = 32
     # R_layer1_num = 280
