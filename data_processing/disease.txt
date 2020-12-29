@@ -1,0 +1,273 @@
+Column1	Column2	
+1	abdominal aortic aneurysm	
+2	acute kidney injury	
+3	acute leukemia	
+4	acute lymphoblastic leukemia	
+5	acute myeloid leukemia	
+6	acute myocardial infarction	
+7	acute promyelocytic leukemia	
+8	adenocarcinoma	
+9	adolescent idiopathic scoliosis	
+10	adrenocortical carcinoma	
+11	affective disorder	
+12	aging	
+13	AIDS	
+14	alcoholic liver disease	
+15	Alzheimer's disease	
+16	amyotrophic lateral sclerosis	
+17	Angelman syndrome	
+18	ankylosing spondylitis	
+19	aortic aneurysm	
+20	aplastic anemia	
+21	asthenozoospermia	
+22	asthma	
+23	astrocytoma	
+24	atherosclerosis	
+25	atrial fibrillation	
+26	atypical teratoid rhabdoid tumor	
+27	autism spectrum disorder	
+28	autoimmune disease	
+29	Barrett's Esophagus	
+30	basal cell carcinoma	
+31	B-cell lymphoma	
+32	B-cell neoplasms	
+33	Beckwith-Wiedemann syndrome	
+34	bipolar disorder	
+35	bladder cancer	
+36	bladder transitional cell carcinoma	
+37	bladder urothelial carcinoma	
+38	blepharophimosis syndrome	
+39	bone diseases	
+40	breast cancer	
+41	Burkitt lymphoma	
+42	calcific aortic valve disease	
+43	cancer	
+44	cardiac hypertrophy	
+45	cardiovascular disease	
+46	cartilage hair hypoplasia	
+47	cat eye syndrome	
+48	cervical cancer	
+49	choriocarcinoma	
+50	chronic kidney disease	
+51	chronic lymphocytic leukemia	
+52	chronic myeloid leukemia	
+53	chronic myeloproliferative disorders	
+54	chronic nonalcoholic liver disease	
+55	Chronic thromboembolic pulmonary hypertension	
+56	cleft lip	
+57	colon cancer	
+58	colorectal cancer	
+59	congenital heart defect	
+60	congenital hyperinsulinism	
+61	congenital microtia	
+62	coronary artery disease	
+63	coronary heart disease	
+64	cutaneous squamous cell carcinoma	
+65	depression	
+66	dermatomyositis	
+67	diabetes mellitus	
+68	diabetic cardiomyopathy	
+69	diabetic nephropathy	
+70	diabetic retinopathy	
+71	diffuse large B-cell lymphoma	
+72	DiGeorge syndrome	
+73	dilated cardiomyopathy	
+74	Down's syndrome	
+75	drug abuse	
+76	Duchenne muscular dystrophy	
+77	ductal carcinoma	
+78	dyskeratosis congenita	
+79	embryonal carcinoma	
+80	endometrial cancer	
+81	endometriosis	
+82	enterovirus 71 infection	
+83	esophageal adenocarcinoma	
+84	esophageal cancer	
+85	esophageal squamous cell carcinoma	
+86	Ewing sarcoma	
+87	exfoliation syndrome	
+88	facioscapulohumeral muscular dystrophy	
+89	fragile X syndrome	
+90	fragile X-associated tremor and ataxia syndrome	
+91	frontotemporal lobar degeneration	
+92	gallbladder cancer	
+93	gastric adenocarcinoma	
+94	gastric cancer	
+95	gastric cardia adenocarcinoma	
+96	gastrointestinal cancer	
+97	gastrointestinal stromal tumor	
+98	germ cell tumor	
+99	gestational choriocarcinoma	
+100	gestational trophoblastic diseases	
+101	glaucoma	
+102	glioblastoma	
+103	glioma	
+104	growth restriction	
+105	H.pylori-related diseases	
+106	Hashimoto's thyroiditis	
+107	HCV	
+108	head and neck cancer	
+109	head and neck squamous cell carcinoma	
+110	heart failure	
+111	hemangioma	
+112	hematologic cancer	
+113	hepatic colorectal metastasis	
+114	hepatic steatosis	
+115	hepatoblastoma	
+116	hepatocellular carcinoma	
+117	hereditary hemorrhagic telangiectasia	
+118	Hirschsprung's disease	
+119	HIV	
+120	Hodgkin's lymphoma	
+121	Huntington's disease	
+122	hydatidiform mole	
+123	hyperglycemia	
+124	hyperhomocysteinemia	
+125	hypertension	
+126	inclusion body myositis	
+127	infertility	
+128	intellectual and developmental disability	
+129	intervertebral disc degeneration	
+130	intracranial aneurysm	
+131	intrahepatic cholangiocarcinoma	
+132	intrauterine growth restriction	
+133	ischaemia-reperfusion injury	
+134	ischemic stroke	
+135	Kaposi's sarcoma	
+136	Kawasaki disease	
+137	keloid	
+138	kidney cancer	
+139	kidney clear cell sarcoma	
+140	Klinefelter's syndrome	
+141	laryngeal squamous cell carcinoma	
+142	left ventricular hypertrophy	
+143	Leishmaniasis	
+144	leukemia	
+145	liver cancer	
+146	liver cirrhosis	
+147	liver disease	
+148	liver fibrosis	
+149	lung adenocarcinoma	
+150	lung cancer	
+151	lung cancer brain metastasis	
+152	lung squamous cell carcinoma	
+153	lymphocytic leukemia	
+154	lymphoma	
+155	mantle cell lymphoma	
+156	medulloblastoma	
+157	melanoma	
+158	membranous nephropathy	
+159	meningioma	
+160	metabolic syndrome	
+161	MOMO syndrome	
+162	Mullerian aplasia	
+163	multiple myeloma	
+164	multiple sclerosis	
+165	myelodysplastic syndrome	
+166	myeloid leukemia	
+167	myeloma	
+168	myeloproliferative polycythaemia vera	
+169	myocardial infarction	
+170	narcolepsy	
+171	nasopharyngeal carcinoma	
+172	nephrolithiasis	
+173	neural system tumors syndrome	
+174	neural tube defects	
+175	neuroblastoma	
+176	neurodegenerative diseases	
+177	neurodevelopmental syndrome	
+178	neurofibromatosis	
+179	neuropathic pain	
+180	non-Hodgkin's lymphomas	
+181	non-small cell lung cancer	
+182	obesity	
+183	oesophageal adenocarcinoma	
+184	oesophageal squamous cell carcinoma	
+185	oral squamous cell carcinoma	
+186	osteoarthritis	
+187	osteosarcoma	
+188	ovarian cancer	
+189	pancreatic cancer	
+190	pancreatic ductal adenocarcinoma	
+191	panic disorder	
+192	papillary thyroid carcinoma	
+193	Parkinson's disease	
+194	parotid cancer	
+195	periodontitis	
+196	peripheral artery disease	
+197	pheochromocytoma	
+198	pituitary adenoma	
+199	plasmacytoma	
+200	pleural mesothelioma	
+201	plexiform neurofibroma	
+202	pneumoconiosis	
+203	pneumonia	
+204	polycystic ovary syndrome	
+205	polymyositis	
+206	postmenopausal osteoporosis	
+207	post-traumatic stress disorder	
+208	Prader-Willi syndrome	
+209	pre-eclampsia	
+210	primary immune thrombocytopenia	
+211	primary myelofibrosis	
+212	primary open-angle glaucoma	
+213	proliferative vitreoretinopathy	
+214	promyelocytic leukemia	
+215	prostate cancer	
+216	pseudohypoparathyroidism type Ib	
+217	psoriasis	
+218	psychiatric disease	
+219	pulmonary arterial hypertension	
+220	renal carcinoma	
+221	renal cell carcinoma	
+222	renal clear cell carcinoma	
+223	renal inflammation	
+224	renal syndrome	
+225	restless legs syndrome	
+226	retinal neurodegeneration	
+227	retinoblastoma	
+228	rhabdomyosarcoma	
+229	rheumatoid arthritis	
+230	right ventricular hypoplasia	
+231	schizophrenia	
+232	sepsis	
+233	Silver-Russell syndrome	
+234	Sjogren's syndrome	
+235	skin melanoma	
+236	small cell lung cancer	
+237	spinocerebellar ataxia	
+238	split hand/split foot malformation disorder	
+239	squamous cell carcinoma	
+240	squamous cell lung carcinoma	
+241	stomach adenocarcinoma	
+242	stroke	
+243	syndromic developmental defect	
+244	systemic lupus erythematosus	
+245	systemic sclerosis	
+246	T cell acute lymphoblastic leukemia	
+247	temple syndrome	
+248	temporomandibular joint osteoarthritis	
+249	testicular cancer	
+250	testicular embryonal carcinoma	
+251	testicular germ cell tumor	
+252	thoracoabdominal aorta aneurysm	
+253	thrombocytopenic purpura	
+254	thyroid cancer	
+255	tongue cancer	
+256	tongue squamous cell carcinoma	
+257	transient neonatal diabetes mellitus	
+258	trophoblastic tumor	
+259	tuberculosis infection	
+260	type 1 diabetes mellitus	
+261	type 2 diabetes mellitus	
+262	ulcerative colitis	
+263	urinary bladder	
+264	urothelial cancer	
+265	uterine cervix carcinoma	
+266	uterine leiomyomas	
+267	uterus cancer	
+268	uveal melanoma	
+269	velocardiofacial syndrome	
+270	ventricular septal defects	
+271	vulvar squamous cell carcinoma	
+272	Wilms' tumor	
